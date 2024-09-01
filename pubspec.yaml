@@ -9,6 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  geocoding: ^3.0.0
+  geolocator: ^7.6.2 
+  http: ^1.2.2
+  intl: ^0.19.0
+  weather: ^3.1.1
 
 dev_dependencies:
   flutter_test:
@@ -23,3 +28,4 @@ flutter:
    - assets\whethericon.png
    - assets\newimage.jpg
    - assets\mostly.png
+   - assets\Image.png
